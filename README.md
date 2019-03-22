@@ -1,0 +1,2 @@
+# LitDigest
+A web application that keeps track of books i have read, built with Flask and VueJs
